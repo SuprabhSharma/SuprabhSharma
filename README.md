@@ -1,6 +1,6 @@
  # 💫 Hi 👋, I'm Suprabh Sharma
 
-A passionate Data Analyst || Data Scientist || ML/AI Engineer from India
+**A passionate Data Analyst || Data Scientist || ML/AI Engineer from India**
 
 Email Me 👉 ✉️ sharmasuprabh2608@gmail.com
  For Collaboration/Projects or Opportunities 🚀
