@@ -1,18 +1,18 @@
-💫 Hi 👋, I'm Suprabh Sharma
+ # 💫 Hi 👋, I'm Suprabh Sharma
 
 A passionate Data Analyst || Data Scientist || ML/AI Engineer from India
 
 Email Me 👉 ✉️ sharmasuprabh2608@gmail.com
  For Collaboration/Projects or Opportunities 🚀
 
-🔭 I’m currently working on: Data Analytics & Machine Learning Projects (EDA, Dashboards, Predictive Models)
-🌱 I’m currently learning: Advanced Machine Learning, PostgreSQL, and Model Deployment
-👯 I’m looking to collaborate on: Data Analytics, Machine Learning & AI-based Projects
-🤔 I’m looking for help with: Real-world ML deployment & scalable data solutions
-💬 Ask me about: Python, SQL, Power BI, Data Analysis, Visualization
-📫 How to reach me:sharmasuprabh2608@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I turn raw data into insights & models that actually solve problems 📊🤖
+- 🔭 I’m currently working on: Data Analytics & Machine Learning Projects (EDA, Dashboards, Predictive Models).
+- 🌱 I’m currently learning: Advanced Machine Learning, PostgreSQL, and Model Deployment
+- 👯 I’m looking to collaborate on: Data Analytics, Machine Learning & AI-based Projects
+- 🤔 I’m looking for help with: Real-world ML deployment & scalable data solutions
+- 💬 Ask me about: Python, SQL, Power BI, Data Analysis, Visualization
+- 📫 How to reach me:sharmasuprabh2608@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I turn raw data into insights & models that actually solve problems 📊🤖
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suprabh-sharma-13321b2a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmasuprabh2608@gmail.com) 
